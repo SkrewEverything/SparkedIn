@@ -1,0 +1,326 @@
+[
+    {
+        "hiringManagerDetails": {
+            "name": "Jordan Horder",
+            "userId": "s0p0i2x",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Xavier Thomas", "userId": "x0d0i1e", "linkToProfile": "#link_to_profile"},
+            {"name": "Charles", "userId": "c0q0i1s", "linkToProfile": "#link_to_profile"},
+            {"name": "Jordi", "userId": "j0k0i1x", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 2,
+            "avgPullRequestTime": "20 mins",
+            "mostUsedLanguage": "Java",
+            "avgCommitsPerDay": "23"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Taylor Smith",
+            "userId": "t1a2b3c",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Alex Johnson", "userId": "a1j2k3l", "linkToProfile": "#link_to_profile"},
+            {"name": "Jamie Lee", "userId": "j2l3m4n", "linkToProfile": "#link_to_profile"},
+            {"name": "Morgan Brown", "userId": "m3n4o5p", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 5,
+            "avgPullRequestTime": "15 mins",
+            "mostUsedLanguage": "Python",
+            "avgCommitsPerDay": "30"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Chris Evans",
+            "userId": "c1e2v3a",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Sam Wilson", "userId": "s2w3i4l", "linkToProfile": "#link_to_profile"},
+            {"name": "Natasha Romanoff", "userId": "n3r4o5m", "linkToProfile": "#link_to_profile"},
+            {"name": "Bruce Banner", "userId": "b4b5a6n", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 4,
+            "avgPullRequestTime": "18 mins",
+            "mostUsedLanguage": "JavaScript",
+            "avgCommitsPerDay": "25"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Morgan Freeman",
+            "userId": "m1f2r3e",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Eddie Redmayne", "userId": "e2r3e4d", "linkToProfile": "#link_to_profile"},
+            {"name": "Sophie Turner", "userId": "s3t4u5r", "linkToProfile": "#link_to_profile"},
+            {"name": "James McAvoy", "userId": "j4m5a6c", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 3,
+            "avgPullRequestTime": "12 mins",
+            "mostUsedLanguage": "Ruby",
+            "avgCommitsPerDay": "20"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Robert Downey Jr.",
+            "userId": "r1d2j3r",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Tom Holland", "userId": "t2h3o4l", "linkToProfile": "#link_to_profile"},
+            {"name": "Benedict Cumberbatch", "userId": "b3c4u5m", "linkToProfile": "#link_to_profile"},
+            {"name": "Paul Rudd", "userId": "p4r5u6d", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 8,
+            "avgPullRequestTime": "22 mins",
+            "mostUsedLanguage": "Go",
+            "avgCommitsPerDay": "32"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Tom Hanks",
+            "userId": "t1h2a3n",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Tim Allen", "userId": "t2a3l4l", "linkToProfile": "#link_to_profile"},
+            {"name": "Annie Potts", "userId": "a3p4o5t", "linkToProfile": "#link_to_profile"},
+            {"name": "Joan Cusack", "userId": "j4c5u6s", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 7,
+            "avgPullRequestTime": "14 mins",
+            "mostUsedLanguage": "Kotlin",
+            "avgCommitsPerDay": "29"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Emma Watson",
+            "userId": "e1w2a3t",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Daniel Radcliffe", "userId": "d2r3a4d", "linkToProfile": "#link_to_profile"},
+            {"name": "Rupert Grint", "userId": "r3g4r5i", "linkToProfile": "#link_to_profile"},
+            {"name": "Tom Felton", "userId": "t4f5e6l", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 9,
+            "avgPullRequestTime": "16 mins",
+            "mostUsedLanguage": "Swift",
+            "avgCommitsPerDay": "35"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Leonardo DiCaprio",
+            "userId": "l1d2c3a",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Kate Winslet", "userId": "k2w3i4n", "linkToProfile": "#link_to_profile"},
+            {"name": "Billy Zane", "userId": "b3z4a5n", "linkToProfile": "#link_to_profile"},
+            {"name": "Frances Fisher", "userId": "f4f5i6s", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 5,
+            "avgPullRequestTime": "13 mins",
+            "mostUsedLanguage": "PHP",
+            "avgCommitsPerDay": "27"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Jennifer Lawrence",
+            "userId": "j1l2a3w",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Josh Hutcherson", "userId": "j2h3u4t", "linkToProfile": "#link_to_profile"},
+            {"name": "Liam Hemsworth", "userId": "l3h4e5m", "linkToProfile": "#link_to_profile"},
+            {"name": "Woody Harrelson", "userId": "w4h5a6r", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 6,
+            "avgPullRequestTime": "19 mins",
+            "mostUsedLanguage": "C++",
+            "avgCommitsPerDay": "26"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Will Smith",
+            "userId": "w1s2m3i",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Jaden Smith", "userId": "j2s3m4i", "linkToProfile": "#link_to_profile"},
+            {"name": "Margot Robbie", "userId": "m3r4o5b", "linkToProfile": "#link_to_profile"},
+            {"name": "Joel Kinnaman", "userId": "j4k5i6n", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 4,
+            "avgPullRequestTime": "17 mins",
+            "mostUsedLanguage": "TypeScript",
+            "avgCommitsPerDay": "24"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Gal Gadot",
+            "userId": "g1g2a3d",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Chris Pine", "userId": "c2p3i4n", "linkToProfile": "#link_to_profile"},
+            {"name": "Robin Wright", "userId": "r3w4r5i", "linkToProfile": "#link_to_profile"},
+            {"name": "Pedro Pascal", "userId": "p4p5a6s", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 3,
+            "avgPullRequestTime": "11 mins",
+            "mostUsedLanguage": "Scala",
+            "avgCommitsPerDay": "22"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Tom Cruise",
+            "userId": "t1c2r3u",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Simon Pegg", "userId": "s2p3e4g", "linkToProfile": "#link_to_profile"},
+            {"name": "Rebecca Ferguson", "userId": "r3f4e5r", "linkToProfile": "#link_to_profile"},
+            {"name": "Ving Rhames", "userId": "v4r5h6a", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 7,
+            "avgPullRequestTime": "20 mins",
+            "mostUsedLanguage": "Rust",
+            "avgCommitsPerDay": "31"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Dwayne Johnson",
+            "userId": "d1j2o3h",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Kevin Hart", "userId": "k2h3a4r", "linkToProfile": "#link_to_profile"},
+            {"name": "Karen Gillan", "userId": "k3g4i5l", "linkToProfile": "#link_to_profile"},
+            {"name": "Jack Black", "userId": "j4b5l6a", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 4,
+            "avgPullRequestTime": "18 mins",
+            "mostUsedLanguage": "Elixir",
+            "avgCommitsPerDay": "23"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Chris Pratt",
+            "userId": "c1p2r3a",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Zoe Saldana", "userId": "z2s3a4l", "linkToProfile": "#link_to_profile"},
+            {"name": "Dave Bautista", "userId": "d3b4a5u", "linkToProfile": "#link_to_profile"},
+            {"name": "Bradley Cooper", "userId": "b4c5o6o", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 8,
+            "avgPullRequestTime": "21 mins",
+            "mostUsedLanguage": "Perl",
+            "avgCommitsPerDay": "33"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Ryan Reynolds",
+            "userId": "r1r2e3y",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Blake Lively", "userId": "b2l3i4v", "linkToProfile": "#link_to_profile"},
+            {"name": "Hugh Jackman", "userId": "h3j4a5c", "linkToProfile": "#link_to_profile"},
+            {"name": "Anna Kendrick", "userId": "a4k5e6n", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 9,
+            "avgPullRequestTime": "23 mins",
+            "mostUsedLanguage": "Lua",
+            "avgCommitsPerDay": "34"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Scarlett Johansson",
+            "userId": "s1j2o3h",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Chris Evans", "userId": "c2e3v4a", "linkToProfile": "#link_to_profile"},
+            {"name": "Mark Ruffalo", "userId": "m3r4u5f", "linkToProfile": "#link_to_profile"},
+            {"name": "Robert Downey Jr.", "userId": "r4d5j6r", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 10,
+            "avgPullRequestTime": "24 mins",
+            "mostUsedLanguage": "Shell",
+            "avgCommitsPerDay": "36"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Chris Hemsworth",
+            "userId": "c1h2e3m",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Tom Hiddleston", "userId": "t2h3i4d", "linkToProfile": "#link_to_profile"},
+            {"name": "Natalie Portman", "userId": "n3p4o5r", "linkToProfile": "#link_to_profile"},
+            {"name": "Anthony Hopkins", "userId": "a4h5o6p", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 6,
+            "avgPullRequestTime": "19 mins",
+            "mostUsedLanguage": "Objective-C",
+            "avgCommitsPerDay": "30"
+        }
+    },
+    {
+        "hiringManagerDetails": {
+            "name": "Henry Cavill",
+            "userId": "h1c2a3v",
+            "linkToProfile": "#link_to_profile"
+        },
+        "teamMembers": [
+            {"name": "Amy Adams", "userId": "a2a3d4a", "linkToProfile": "#link_to_profile"},
+            {"name": "Jesse Eisenberg", "userId": "j3e4i5s", "linkToProfile": "#link_to_profile"},
+            {"name": "Gal Gadot", "userId": "g4g5a6d", "linkToProfile": "#link_to_profile"}
+        ],
+        "githubStats": {
+            "noOfRepos": 3,
+            "avgPullRequestTime": "13 mins",
+            "mostUsedLanguage": "Dart",
+            "avgCommitsPerDay": "22"
+        }
+    }
+]
