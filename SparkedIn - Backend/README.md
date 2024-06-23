@@ -12,5 +12,5 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-## It connects to postgresql with databasename: s0p0i2x
+## It connects to postgresql with databasename: s0p0i2x with no password
 First setup and restore from the backup.
